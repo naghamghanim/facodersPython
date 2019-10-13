@@ -1,0 +1,11 @@
+# اكتب الكود هنا
+# لا تنسى كتابة المتغيرات التي تحتاجها جميعا أولا
+#
+
+# قم بإضافة المتغير الذي حمل عمر أحمد بالأيام، ولكن فكر كيف يمكن الجمع بين نص ورقم
+#the name is 'Ahmad' and his age is 29, print the age in days as we khow that 365 days, then print the age for Ahmad in days
+
+name='Ahmad'
+age=29
+age_in_days=age*365
+print('Hello ' + name + ', your age in days is:' + str(age_in_days))
