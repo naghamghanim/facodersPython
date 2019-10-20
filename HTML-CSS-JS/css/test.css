@@ -1,0 +1,39 @@
+h2{
+  color:red;
+  font-size:30px;
+  font-family:Arial;
+  font-size:x-large;
+    font-style:italic;
+  font-weight:lighter;
+  text-align:center;
+}
+p{
+/*  color: green;*/
+  font-size:12px;
+  font-weight:900;
+}
+/*b{
+  color:black;
+}*/
+
+h1{
+  background-color:gray
+}
+img{
+  float:right;
+}
+.h2blue{
+  color:blue;
+}
+/* this is class for div*/
+.graydiv{
+  background:gray;
+}
+table{
+  border :5px double black;
+  border-collapse:collapse;
+}
+ th,td{
+  border: 2px dotted black;
+  border-collapse:collapse;
+}
